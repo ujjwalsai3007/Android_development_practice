@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default Material 3 theme -->
+    <style name="Theme.Listviewotherproejct" parent="Theme.Material3">
+        <!-- Optionally, you can add any light or dark theme overrides here -->
+    </style>
+</resources>

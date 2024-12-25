@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361000469760",
+    "project_id": "empire-fd9a4",
+    "storage_bucket": "empire-fd9a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361000469760:android:214cb8bd685f69f720dfe5",
+        "android_client_info": {
+          "package_name": "com.example.empire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8lKqg4jjFokjaNhU1oU_I7odGJC8WW_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
